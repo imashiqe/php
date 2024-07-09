@@ -1,0 +1,15 @@
+.full_width{
+    width: 100%;
+    background: #2c67aa;
+}
+
+form{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.container h1 {
+    text-align: center;
+}

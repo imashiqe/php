@@ -57,8 +57,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please open an issue on this repository or contact me at [your_email@example.com].
+For any questions or feedback, please open an issue on this repository or contact me at [ceo@tantsoft.com].
 
----
 
-Replace `[ceo@tantsoft.com]` with your actual email address.
+
+
